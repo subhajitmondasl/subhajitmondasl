@@ -18,3 +18,20 @@ Not a framework-level developer.
 A system-level engineer.
 
 I design → build → automate → scale → secure → deploy.
+[ Web / Mobile Client ]
+          |
+       HTTPS + JWT
+          |
+    [ API Gateway ]
+          |
+ ------------------------------------------------
+ | Auth | User | Product | Order | Payment | Log |
+ ------------------------------------------------
+          |
+     Docker Containers (Microservices)
+          |
+   Kubernetes Cluster (Auto-scaling)
+          |
+      AWS / Azure Cloud
+          |
+ SQL | MongoDB | Redis | Object Storage
