@@ -1,37 +1,7 @@
-<!-- ===================================================== -->
-<!--              SUBHAJIT MONDAL | README                 -->
-<!--        Full-Stack Java • Cloud • DevOps • Systems     -->
-<!-- ===================================================== -->
-
 <div align="center">
+https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00&text_color=FFFFFF&border_radius=15
+https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=FFFFFF&border_radius=15
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Subhajit%20Mondal&fontAlign=50&fontAlignY=40&color=gradient&desc=Full-Stack%20Java%20Developer%20|%20Cloud%20&%20DevOps%20Engineer&descAlign=50&descAlignY=60" />
+https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical&hide_border=true&background=0D1117&border=00FF00&stroke=00FF00&ring=00FF00&fire=FF0000&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00FF00&sideLabels=00FF00&dates=808080
 
 </div>
-
----
-
-## 🧠 Engineering Identity
-
-```txt
-Not a framework-level developer.
-A system-level engineer.
-
-I design → build → automate → scale → secure → deploy.
-[ Web / Mobile Client ]
-          |
-       HTTPS + JWT
-          |
-    [ API Gateway ]
-          |
- ------------------------------------------------
- | Auth | User | Product | Order | Payment | Log |
- ------------------------------------------------
-          |
-     Docker Containers (Microservices)
-          |
-   Kubernetes Cluster (Auto-scaling)
-          |
-      AWS / Azure Cloud
-          |
- SQL | MongoDB | Redis | Object Storage
