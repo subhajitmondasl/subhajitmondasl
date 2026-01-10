@@ -1,3 +1,16 @@
+<h1 align="center">Hi 👋, I'm Subhajit Mondal</h1>
+<h3 align="center">🚀 Java & Cloud Enthusiast | Future DevOps & Full-Stack Engineer ☁️</h3>
+
+### 🌟 About Me
+- 🎓 Computer Science student with strong interest in **Software Development & Cloud Technologies**  
+- ☕ Learning and building projects using **Java, Spring Boot & Backend Technologies**  
+- 📱 Exploring **Android App Development (Java-based)**  
+- ☁️ Stepping into **Cloud & DevOps Engineering**  
+- ⚙️ Interested in **Linux, Git, CI/CD, Docker, Kubernetes & Cloud Platforms (AWS/Azure)**  
+- 🔐 Also exploring fundamentals of **Cybersecurity & Cloud Security**  
+- 🚀 Goal-driven, project-focused, and always improving skills through real-world development  
+
+---
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/ut9SK84M) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/subhajit.mondal.846038) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lyadhkhoor) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/subhajit-mondal-447538270) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/SubhajitMondasl) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:designbysuvo@gmail.com) 
