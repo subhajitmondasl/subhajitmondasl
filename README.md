@@ -1,5 +1,10 @@
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Subhajit%20Mondal&fontAlign=50&fontAlignY=40&color=gradient&desc=Full-Stack%20Java%20Developer%20|%20Cloud%20&%20DevOps%20Engineer&descAlign=50&descAlignY=60" />
+
+</div>
 <h1 align="center">Hi 👋, I'm Subhajit Mondal</h1>
 <h3 align="center">🚀 Java & Cloud Enthusiast | Future DevOps & Full-Stack Engineer ☁️</h3>
+<div align="center">
 
 ### 🌟 About Me
 - 🎓 Computer Science student with strong interest in **Software Development & Cloud Technologies**  
@@ -25,7 +30,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SuvoXbyte&theme=dark&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### 🔝 Top Contributed Repo
