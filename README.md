@@ -6,7 +6,7 @@
 <h3 align="center">🚀 Java & Cloud Enthusiast | Future DevOps & Full-Stack Engineer ☁️</h3>
 <div align="center">
 
-### 🌟 About Me
+### About Me
 - 🎓 Computer Science student with strong interest in **Software Development & Cloud Technologies**  
 - ☕ Learning and building projects using **Java, Spring Boot & Backend Technologies**  
 - 📱 Exploring **Android App Development (Java-based)**  
@@ -26,6 +26,12 @@
 ![](https://github-readme-stats.vercel.app/api?username=SuvoXbyte&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=SuvoXbyte&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SuvoXbyte&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SuvoXbyte&theme=dark&no-frame=false&no-bg=false&margin-w=4)
